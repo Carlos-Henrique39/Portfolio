@@ -5,6 +5,11 @@ Meu nome é Carlos Henrique Benício Costa.
 Tenho 24 anos, e sou aluno da Faculdade Tecnologica Prof. Jessen Vidal - FATEC São Jose dos Campos e estou no curso de Analise e Desenvolvimento de Sistema, atualmente estou no meu 8º semestre na FATEC.
 **Linguagem**
 - inglês avançado
+### Histórico Acadêmico
+![Histórico Acadêmico](https://github.com/user-attachments/assets/d945e27b-403f-40a8-9daa-ddfd1cc7255f)
+
+### Historico Acadêmico
+Já trabalhei como Recenseador no IBGE [Periodo: 02/07/2022 a 31/12/2022]
 
 ## Meus Principais Conhecimentos
 - Linguagem CSS
