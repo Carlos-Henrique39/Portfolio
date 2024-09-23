@@ -15,20 +15,20 @@ Tenho 24 anos, sou aluno da Faculdade Tecnologica Prof. Jessen Vidal - FATEC Sã
 ### Historico Acadêmico
 Já trabalhei como Recenseador no IBGE [Periodo: 02/07/2022 a 31/12/2022]
 
+## Contatos
+### LINKEDIN
+- (https://www.linkedin.com/in/carlos-henrique-b-40a4b5108/)
+### GITHUB
+- (https://github.com/Carlos-Henrique39)
+
 ## Meus Principais Conhecimentos
 - Linguagem CSS
 - Linguagem HTML
 - Linguagem Typescript
 - Linguagem Java
 - Linguagem Javascript
-- Linguagem Vue.
-- Linguagem NodeJS
-- Linguagem Python
-## Contatos
-### LINKEDIN
-- (https://www.linkedin.com/in/carlos-henrique-b-40a4b5108/)
-### GITHUB
-- (https://github.com/Carlos-Henrique39)
+- Linguagem Angular
+
 ## Meus Projetos
 ### Historico de API
 ### API(2022-1) - TecSUS
@@ -36,6 +36,8 @@ Já trabalhei como Recenseador no IBGE [Periodo: 02/07/2022 a 31/12/2022]
 - **Empresa - TecSUS**
 
 A Tecsus é uma startup que desenvolve dispositivos, aplicativos e sistemas para a transmissão e recepção de dados, controle de equipamentos remotos e gestão de faturas. Aplicados nos setores de abastecimento de água, distribuição de eletricidade e gás natural.
+
+(https://github.com/luks-ecdc/PowerTech-API-TecSUS)
 
 - **Problema**
 
