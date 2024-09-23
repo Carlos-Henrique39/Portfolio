@@ -1,6 +1,9 @@
+
+# Carlos Henrique Benício Costa.
+
 ## Introdução
+
 ![Imagem de perfil](https://github.com/user-attachments/assets/fa2cc1d9-6acd-4eb6-8b7e-36f9b468e619)
-Meu nome é Carlos Henrique Benício Costa.
 
 Tenho 24 anos, sou aluno da Faculdade Tecnologica Prof. Jessen Vidal - FATEC São Jose dos Campos e estou no curso de Analise e Desenvolvimento de Sistema, atualmente no meu 8º semestre na FATEC.
 
@@ -49,12 +52,12 @@ Criaremos uma forma de que os colaboradores (Administradores) da TecSUS consigam
 O colaborador Digitador terá uma área de trabalho quando entrar no sistema poderá acessar a lista de contratos e as faturas já cadastradas no sistema, ele poderá criar novas faturas para ser cadastradas e fazer alterações caso necessário. Todos os usuários terão um log de acesso com a data e hora da atividade. Esse sistema tem seu principal objetivo melhorar o trabalho de digitação com um melhoramento no workspace prezando a UX, evitar problemas como atrasos e acúmulos de serviço com alertas e notificação de tarefas, e um dashboard com gráficos que mostrará o consumo do cliente e também emitirá um alerta de alto consumo podendo então avisar o cliente para ele estudar uma forma de redução de custos.
 
 - **Contribuição**
-  - Fiz o Header(Front)
-  - Fiz e Ajustei a tela de Cadastro de Gaz, Agua e Luz(Front)
-  - Ajustei a tela de Busca(Front)
-  - Ajudei na separação de Administrador e do Digitador(Front)
-  - Ajudei no codigo de buscar o Digitador pelo Administrador(Front)
-  - Ajudei no codigo de buscar o Componentes e Gestor pelo Administrador(Front)
+  - Fiz o Header(Front/CSS e HTML)
+  - Fiz e Ajustei a tela de Cadastro de Gaz, Agua e Luz(Front/CSS e HTML)
+  - Ajustei a tela de Busca(Front/CSS e HTML)
+  - Ajudei na separação de Administrador e do Digitador(Front/CSS e HTML)
+  - Ajudei no codigo de buscar o Digitador pelo Administrador(Front/CSS e HTML)
+  - Ajudei no codigo de buscar o Componentes e Gestor pelo Administrador(Front/CSS e HTML)
 
 - **Hard Skills**
   - Git/Github: Faço com ajuda.
