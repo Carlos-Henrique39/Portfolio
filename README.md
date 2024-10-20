@@ -5,15 +5,12 @@
 
 ![Imagem de perfil](https://github.com/user-attachments/assets/fa2cc1d9-6acd-4eb6-8b7e-36f9b468e619)
 
-Tenho 24 anos, sou aluno da Faculdade Tecnologica Prof. Jessen Vidal - FATEC São Jose dos Campos e estou no curso de Analise e Desenvolvimento de Sistema, atualmente no meu 8º semestre na FATEC.
+Tenho 24 anos, sou aluno da Faculdade Tecnológica Prof. Jessen Vidal - FATEC São Jose dos Campos. Tive início dos meus estudos na área de computação no ano de 2021 com o curso de Análise e Desenvolvimento de Sistemas. Durante esse período de estudo, conheci várias linguagens de programação, como Python, CSS, HTML, Java e vários outros. Escolhi esse curso com o objetivo de me aprofundar mais na área de computação para assim conseguir um grande destaque no mercado de trabalho de hoje em dia.
+
+Profissionalmente, eu já trabalhei como Recenseador no IBGE [Período: 02/07/2022 a 31/12/2022] e nesse serviço me deu experiencia quando é pra falar com as pessoas e usei um Dispositivo Móvel de Coleta(DMC) do IBGE para poder fazer as entrevistas. Até o momento não consegui entrar em nenhum estágio para área de computação, mas ainda estou buscando oportunidades na busca de estágio e de emprego.
 
 **Linguagem**
 - inglês avançado
-### Histórico Acadêmico
-![Histórico Acadêmico](https://github.com/user-attachments/assets/d945e27b-403f-40a8-9daa-ddfd1cc7255f)
-
-### Historico Acadêmico
-Já trabalhei como Recenseador no IBGE [Periodo: 02/07/2022 a 31/12/2022]
 
 ## Contatos
 ### LINKEDIN
