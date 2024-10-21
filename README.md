@@ -46,12 +46,7 @@ A TecSUS realiza a coleta e processamento de contas de energia, água e gás par
 
 - **Solução**
 
-Nós fizemos um sistema de cadastro como os valores de faturas de energia, agua e gás, onde o cliente da TecSUS envia as faturas para a empresa e o serviço do digitador é preencheria os campos de fatura, no qual vai ser referente ao serviço contratado com a TecSUS. Após a digitação dos dados de consumo, seria feito um Dashboard montrando os dados para as análises mensais e anuais, e será calculado a media de consumo e enviado para o setor de Gestão, fazendo assim contatar os clientes caso seja emitido um alerta de alto consumo.
-
-Criamos uma forma para os administradores consigam interagir com os contratos de concessionarias, clientes e contratos. Ele também terá acesso às outras areas(Gestão e Digitação). Os Gestores só tem permissão para realizar alteração nos campos de faturas cadastradas no sistema. O usuário Gestor vai ter acesso para fazer upload de faturas de PDF/IMG para o banco de dados, no qual terá
-ligação ao contrato do cliente e terá data para sinalizar o periodo da fatura, e após ter feito isso, O Digitador vai receber, pelo sistema de notificação por e-mail, uma notificação avisando uma nova fatura nova para ser cadastrado no sistema.
-
-Fizemos com que o Digitador tenha uma área de trabalho, e que quando entrar no sistema, ele ter acesso a lista de contratos a das faturas já cadastradas no sistema, fazendo ele poder cadastras novas faturas e fazer alterações caso necessário. Criamos um log de acesso com data e hora das atividades de todos os usuários. Criamos esse sistema para melhorar o trabalho de digitação e melhorar o workspace prezando a UX, não ter problemas com atrasos e acúmulos de serviços com alertas e notificação de tarefas, e um dashboard com gráficos que mostra o consumo do cliente e avisando quando é um alto consumo para que tenha consiencia dos seus custos e poder estudar a forma de reduzir isso.
+Nós fizemos um sistema de cadastro da energia, agua e gás, onde o cliente envia as faturas para a empresa e o digitador preenche os campos de fatura. Após inserir os dados, um Dashboard montrará os dados para análises e mostraria a media de consumo e é avisado por e-mail quando o consumo ta alto. os administradores interager com os contratos de concessionarias, clientes e contratos. Os Gestores podem mexer nas faturas cadastradas no sistema. O Gestor tem acesso as faturas de PDF/IMG para o banco de dados. O Digitador tem uma área de trabalho no qual ele mexer na lista de contratos das faturas. tem log de acesso com data e hora.
 
 - **Contribuição**
   - Fiz o Header(Front/CSS e HTML)
@@ -98,8 +93,7 @@ O desafio é fazer um Sistema que faça o controle da jornada de trabalho do col
 
 - **Solução**
 
-PowerTech fará um sistema de integração da consumissão de dados, no qual tem a matricula, o nome completo e o turno, e tambem a integração com o Login do 2RP (por meio SSO ou LDAP). Fizemos com que os usuarios tenham perfis diferentes, fazendo o cadastro de Adminstrador, Gestor ou de um Colaborador no Site.
-Fizemos o apontamento de horas de sobreaviso para quando elas forem lançadas informar o Cliente, o Centro de Resultados(CR), o projeto, o solicitante e escrever a sua justificativa do apontamento, e além colocar um recurso para aprovação de horas extras executadas seguindo as regras de horas extras e sobreavisos na extração. Criamos uma tela para cadastros de clientes e CRs e uma tela de parametrização de sistema. E para terminar, realizamos um Dashboard com acompanhamento em tempo real das horas extras executados com o filtro do Cliente, do CR e do Colaborador.
+Criamos um sistema de integração do Login e da consumição de dados, nela tem a matricula, o nome completo e o turno. Os usuários devem ter perfis diferentes: o Administrador, Gestor ou de um Colaborador. Tem apontamento de horas de sobreaviso e quando elas forem lançadas, informar o Cliente, Centro de Resultados (CR), projeto, solicitante e a sua justificativa, criamos um recurso para aprovação de horas extras executadas seguindo as regras dela e sobreavisos na extração. Tem uma tela de cadastros de clientes e CRs e uma tela de parametrização de sistema. E criamos um Dashboard que acompanha em tempo real as horas extras executados.
 
 - **Contribuição**
   - Adicionei e ajustei varias vezes o sidebar do site.(Node.js)
@@ -146,7 +140,7 @@ O Objetivo é criar uma aplicação híbrida/responsiva, que funcione como Servi
 
 - **Solução**
 
-A PowerTech criará uma área de Cliente e uma área de Administrador, com controles de acesso(Autenticação e autorização, respectivamente). Criamos tela de cadastro  e de acompanhar os Registros de Ocorrência(ROs), por meio de filtros. criamos o sistema de chat para que tenha com facilidade uma comunicação com os administradores do Sistema. Fizemos o sistema de atualização de status das ROs em tempo real, fazendo elas ficarem mais facil de serem indentificas se elas ainda estão pendentes ou se já foram Atendidas. E se receberem mensagem no chat ou algo mudar nos status das ROs, o cliente e os administradores resceberam um e-mail notificando sobre a mudança ou a mensagem do chat no Aplicativo. Também fizemos um tela dizendo os relatórios por meio de gráficos de sumarização das ROs. aplicamos O LGPD -  Termos de Privacidade e Recebimento de e-mail.
+Nós criamos uma área de Cliente e uma de Administrador, no qual tem acesso na Autenticação e na autorização, respectivamente. Tem tela de cadastro e de acompanhamento dos Registros de Ocorrência(ROs). Nele tem um chat para facilitar a comunicação com os administradores do Sistema. Criamos um sistema de atualização de status das ROs em tempo real, facilitando ao indentificar se as ROs estão pendentes ou se foram Atendidas. E se receberem mensagem no chat ou os status das ROs mudar, o cliente e os administradores resceberão um e-mail avisando-o. Criamos um tela de relatórios em formato de gráficos resumindo as ROs. 
 
 - **Contribuição**
 
@@ -189,17 +183,17 @@ O objetivo é criar uma aplicação web capaz de identificar candidatos ideais p
 
 - **Solução**
 
-CodeSquirrel criou uma plataforma que realize raspagem da Web em varias fontes de empregos populares, economizando tempo na coleta de informações dos candidatos, E por nessa plataforma fizemos um sistema de avaliação baseada no conhecimento, habilidade e atitudes(KSA) dos candidatos mais classificados para a carga ideal, e que vai alerta-los sobre quando o resultado do processo de seleção estiver disponivel por meio de notificação por e-mail. No Login foi criado usando uma segurança com autenticador multifator, garantindo a proteção de dados da empresa. Colocamos uma descrição de cargos simplificados, no qual tem o objetivo de inserir e atualizar com facilidade as descrições de cargos que os candidatos desejam. E com isso, inserimos um sistema de classificação de candidatos, no qual o sistema vai analisar, de acordo com o que o candidato inseriu, o candidato mais adequado ao perfil de vaga, e com esse sistema, fará que economize recursos na triagem.
+Nós criamos uma plataforma que realize raspagem da Web em várias fontes de empregos populares, economizando tempo na coleta de informações dos candidatos, nessa plataforma criamos um sistema de avaliação baseada no conhecimento, habilidade e atitudes (KSA) dos candidatos mais classificados, e vai avisa-los quando o resultado do processo de seleção estiver disponível por meio de e-mail. Colocamos uma descrição de cargos simplificados, com o objetivo de inserir e atualizar as descrições de cargos que os candidatos desejam. E inserimos um sistema de classificação de candidatos, fazendo o candidato encontrar vaga mais rápido.
 
 - **Contribuição**
-  - Criei e Ajustei a tela de Login varias vezes(Vue.js/HTML/CSS)
-  - Ajustei o sidebar varias vezes(Vue.js/HTML/CSS)
-  - Ajustei as telas de busca, a home e do resultados(Vue.js/HTML/CSS)
-  - Criei as telas de cadastro por meio CPF e CNPJ, no qual estão conectados com a tela de Login(Vue.js/HTML/CSS)
+  - Criei e Ajustei a tela de Login várias vezes (Vue.js/HTML/CSS)
+  - Ajustei o sidebar várias vezes (Vue.js/HTML/CSS)
+  - Ajustei as telas de busca, a home e dos resultados (Vue.js/HTML/CSS)
+  - Criei as telas de cadastro por meio CPF e CNPJ, no qual estão conectados com a tela de Login (Vue.js/HTML/CSS)
   - Ajustei alguns erros no services(api.tsx) e o views (CadastroCNPJ/CPF)
-  - Criei e ajustei a tela de recuperar senha e de nova senha varias vezes(Vue.js/HTML/CSS)
-  - Personalizei os inputs de cada tela que usa ela.(Vue.js/HTML/CSS)
-  - Ajustei o arquivo de Candidatos para quando for pedido pegar as informações certas quando o sistema pedir.(Vue.js/HTML/CSS)
+  - Criei e ajustei a tela de recuperar senha e de nova senha várias vezes (Vue.js/HTML/CSS)
+  - Personalizei os inputs de cada tela que usa ela. (Vue.js/HTML/CSS)
+  - Ajustei o arquivo de Candidatos para quando for pedido pegar as informações certas quando o sistema pedir. (Vue.js/HTML/CSS)
 
 - **Hard Skills**
   - PostgreSQL: Faço com ajuda.
