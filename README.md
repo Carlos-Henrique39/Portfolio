@@ -88,8 +88,7 @@ A 2RP NET é uma empresa de dados e soluções tecnológicas, seus colaboradores
 [GitHub](https://github.com/PowerTech-Fatec/API-2RP-NET)
 
 - **Problema**
-
-O desafio é fazer um Sistema que faça o controle da jornada de trabalho do colaborador, identifique e classifique horas extras, controle das horas extras e sobreavisos, integração para consumo de dados dos colaboradores com o ADP, integração com o login e extração padronizada das horas executadas. Acesso de administrador (master para os departamentos pessoal e financeiro), gestor (aprovação e lançamento) e colaborador (apontar horas extras). 
+O problema é que os seus colaboradores precisam apontar suas horas extras e sobreavisos seguindo certas regras e seus gestores precisam aprová-las. Então a minha equipe fez um Sistema que faça o controle da jornada de trabalho do colaborador, que identifique e classifique horas extras, controle das horas extras e sobreavisos, integração para consumo de dados dos colaboradores com o ADP, integração com o login e extração padronizada das horas executadas. Acesso de administrador (master para os departamentos pessoal e financeiro), gestor (aprovação e lançamento) e colaborador (apontar horas extras). 
 
 - **Solução**
 
@@ -117,12 +116,8 @@ Criamos um sistema de integração do Login e da consumição de dados, nela tem
 
 
 - **Soft Skills**
-  - **Comunicação:**
-Usamos Whatsapp, Discord e Taiga.io para comunicar sobre o progresso, em caso de ajuda e informar quais tarefas iriamos fazer respectivamente no API
-  - **Organização:**
-Nós nos organizamos usando o Whatsapp, Discord e Taiga pra fazer as nossas tarefas no API
-  - **Colaboração:**
-Quando alguem tinha dificuldade, quando possivel, a gente ajudava o membro que estava com problemas e quando é muitas pessoas, faziamos uma reunião para facilitar aqueles que tinham problema.
+  - **Proatividade:**
+Em diante o problema, nos analizamos os dados e fizemos varias pesquisar e vimos quais são os metodos mais eficazes para resolver e que seja facil de ser usado sem dar problema e para realizar isso, nos compartilhamos as nossas ideias e aplicamos elas quando era aceitas, fazendo questão de melhorar as tarefas designinadas e ficar mais facil tanto para o cliente quanto pro membro na hora de usar e testar, respectivamente. 
   - **Honestidade:**
 Quando faziamos erros não intencionais e foi notado na fase de teste, o responsavel falava que foi ele e fazia questão de arrumar e fazer o sistema funcionar pelo que fez.
 
@@ -136,7 +131,7 @@ A IACIT é uma empresa brasileira que possui capacitação tecnológica para o d
 
 - **Problema**
 
-O Objetivo é criar uma aplicação híbrida/responsiva, que funcione como Serviço de Atendimento ao Cliente (SAC), onde ele poderá criar ROs, verificar as solicitações criadas, entrar em contato via chat com algum administrador (programador da equipe). Assim, os administradores podem receber as solicitações, atualizar seus status e verificar as pendências de forma centralizada.
+O problema é que a empresa esta tendo problema para lidar com os registros de ocorrência recebidas pelos clientes. Com isso, a minha equipe criou uma aplicação híbrida/responsiva, que funcione como Serviço de Atendimento ao Cliente (SAC), onde ele poderá criar ROs, verificar as solicitações criadas, entrar em contato via chat com algum administrador (programador da equipe). Assim, os administradores podem receber as solicitações, atualizar seus status e verificar as pendências de forma centralizada.
 
 - **Solução**
 
@@ -160,14 +155,14 @@ Nós criamos uma área de Cliente e uma de Administrador, no qual tem acesso na 
   - VS Code: Faço com facilidade.
 
 - **Soft Skills**
-  - **Comunicação:**
-Usamos Whatsapp, Discord e Figma para comunicar sobre o progresso, em caso de ajuda e informar quais tarefas iriamos fazer respectivamente no API.
-  - **Organização:**
-Nós nos organizamos usando o Whatsapp, Discord e Figma pra fazer as nossas tarefas no API.
-  - **Colaboração:**
-Todos coleborarão em fazer as suas tarefas, e quando havia atraso, pediam ajuda para resolver esse problema e como uma equipe, nós ajudamos a pessoa na sua tarefa.
+  - **Liderança/Etica no trabalho:**
+em diante da situação do novo membro que foi adicionado, e pela falta de resposta e ação de fazer as suas atividades, ou até mesmo mostrar que ele estava presente nas reuniões, eu como scrum mestre, perguntei para todos os membros sobre essa situação, e depois falei com o novo membro sobre esse problema, e diante a isso ele informou que não havia tempo e viu que por ter feito algo no API, disse que não teria problema de tirar, ao ele falar isso, falei com todos membros denovo, fizemos a votação e tiramos ele da nossa equipe.
+  - **Empatia:**
+Situação de atraso em realizar uma tarefa, eu sempre abordava o responsavel da tarefa e perguntava com calma e compreensão do motivo e se precisava de ajuda, no API teve uns atrasos, mas lidei com empatia pois os membros estavam passando com algumas dificuldades, e diante a isso, encaminhei aos outros membros que não estavam ocupados para ajudar os que estavam com problemas. No fim, a tarefa que estava atrasada foi feita e conseguimos fazer a entrega no prazo certo.
   - **Trabalho em Equipe:**
-Quando um membro está tendo dificuldade, a equipe ajuda quando pode para resolver e ajudar no seu problema.
+A interação de cada membro do grupo foi feita com uma cooperação, todos que estavam fazendo as suas tarefas, estavam fazendo bem, e quando perguntava sobre o andamento de suas tarefas, todos falavam e mostravam o andamento, para aqueles que tinham mais facilidade com o front-end ou com o back-end, cada um ficava em seu grupo para focar naquela area que era pra resolver, e quando havia problemas em uma das duas, um membro dos dois grupos ajudava o outro por mostra que estava dando esse erro e caso não tivesse entendendo do por que estava dando essa resposta, o que tava ajudando realiza a ação e explica o do porque foi feito desse jeito, ajudando caso queira mexer naquela area em momentos futuros e não ter mais dificuldades quando tiver problemas denovo. 
+  - **Atitude positiva:**
+Em relação ao projeto, varias tarefas foram deixadas para ser feitas depois da primeira e segunda entrega, mas mesmo em relação a isso, eu falei com os membro do grupo e motivei conversando com ele e escutando suas ideias, motivando eles mostrando que eram boas, apontando certo detalhes, e encorajando a fazerem as tarefas pendentes, e se tivesse dificuldade, eu dava a minha visão, e quando era algo mais tecnico que ele tinha problema, eu encaminhava alguem para ajuda-lo, para que não fique perdido.
 
 ### API(2023-2) - RecrutaTech
 
@@ -179,7 +174,7 @@ RecrutaTech é uma plataforma web inovadora que oferece recursos essenciais para
 
 - **Problema**
 
-O objetivo é criar uma aplicação web capaz de identificar candidatos ideais para cargos específicos, utilizando Inteligência Artificial para avaliar o perfil com base nos critérios de Conhecimento, Habilidades e Atitudes (KSA) necessários para a função.
+O problema que eles estão enfrentando é a dificuldade para definir qual é o candidato certo, levando em contas suas habilidades, para o cargo que necessita dessas habilidades. Com isso a minha equipe criamos uma aplicação web capaz de identificar candidatos ideais para cargos específicos, utilizando Inteligência Artificial para avaliar o perfil com base nos critérios de Conhecimento, Habilidades e Atitudes (KSA) necessários para a função.
 
 - **Solução**
 
@@ -209,10 +204,12 @@ Nós criamos uma plataforma que realize raspagem da Web em várias fontes de emp
   - Selenium: Faço com dificuldade.
 
 - **Soft Skills**
-  - **Comunicação:**
-Cada integrante comunicou sobre as suas tarefas por meio do Whatsapp, Discord e Jira, e todos são avisados quando o membro termina e qual será a sua proxima tarefa do projeto.
-  - **Organização:**
-Todos se organizaram bem no começo para que não ocorresse atraso e avisaram de sua tarefas.
-  - **Trabalho de Equipe:**
-Quando um terminava uma tarefa, e quando tinha tempo, os membros iam até os que não terminaram com intenção de ajuda-los e fazer com eficiencia de acordo com o prazo de entrega.
-
+  - **Pensamento Critico:**
+Em relação desse projeto, tivemos que usar inteligencia artificial, uma coisa que a gente não tinha mexido antes, e ao saber disso, o grupo fez questão de questionar e analizar os metodos desse nova tecnologia que tinhamos que aplicar.
+Tem o outro caso de que quando a gente fez as entregas, nos informaram que um dos membros não estavam fazendo o minimo de coisas para o API, o Scrum Mestre falou diretamento com o membro, perguntado e questionando num modo direto sobre do por que esta isso acontecendo e do peso que esta causando a todos do grupo ao fazer isso, dando ponto sobre o que tem que fazer para não ter o risco de prejudicar e fazer a decisão de tirar o membro do grupo.
+  - **Flexibilidade e Resiliência:**
+O caso do membro ter dado prejuizo no grupo em uma das entregas, não fez o grupo querer tirar ele de lá, o scrum mestre conversou com o membro e falou sobre como melhorar, o membro se adaptou e com o conhecimento dos atos que fez e por ao fazer isso tinha prejudicado a equipe, mesmo com a esperiencia ruim, fez o certo, fez as coisas com mais frequencia, e seguiu com as orientações do Scrum mestre para poder melhorar o seu desempenho e nao dar mais prejuizo para os outros membros.
+  - **Empatia:**
+Cada um dos membros tinha empatia pelos outros, quando a algo que deu problema, sempre pergunta sobre o que tinham acontecido, e quando era momentos dificies que um dos membros estava passando, todos entendiam e ajudavam quando podiam para alivar a dificuldade do membro do grupo.
+  - **Assertividade:**
+Em relação da Assertividade, muitos dos membros do grupo estavam no seu ultimo semestre para poderem se formar, e com isso todos eles falaram suas intenções, de que esse projeto era o ultimo e que todos tinham que cooperar para não prejuditar eles no final da API, todos entenderam e fizeram o seu melhor para não prejudicar os que precisam terminar e passar, deixando claro o que queriam fazendo os membros entenderem a situações deles e com isso fazendo que todos não prejudiquem e se esforçarem ao maximo, por terem o mesmo objetivo.
