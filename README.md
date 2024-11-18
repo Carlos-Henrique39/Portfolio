@@ -88,6 +88,7 @@ A 2RP NET é uma empresa de dados e soluções tecnológicas, seus colaboradores
 [GitHub](https://github.com/PowerTech-Fatec/API-2RP-NET)
 
 - **Problema**
+
 O problema é que os seus colaboradores precisam apontar suas horas extras e sobreavisos seguindo certas regras e seus gestores precisam aprová-las. Então a minha equipe fez um Sistema que faça o controle da jornada de trabalho do colaborador, que identifique e classifique horas extras, controle das horas extras e sobreavisos, integração para consumo de dados dos colaboradores com o ADP, integração com o login e extração padronizada das horas executadas. Acesso de administrador (master para os departamentos pessoal e financeiro), gestor (aprovação e lançamento) e colaborador (apontar horas extras). 
 
 - **Solução**
