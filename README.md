@@ -132,7 +132,7 @@ A IACIT é uma empresa brasileira que possui capacitação tecnológica para o d
 
 - **Problema**
 
-O problema é que a empresa esta tendo problema para lidar com os registros de ocorrência recebidas pelos clientes. Com isso, a minha equipe criou uma aplicação híbrida/responsiva, que funcione como Serviço de Atendimento ao Cliente (SAC), onde ele poderá criar ROs, verificar as solicitações criadas, entrar em contato via chat com algum administrador (programador da equipe). Assim, os administradores podem receber as solicitações, atualizar seus status e verificar as pendências de forma centralizada.
+O problema é que a empresa estava tendo problema para lidar com os registros de ocorrência recebidas pelos clientes. Com isso, a minha equipe criou uma aplicação híbrida/responsiva, que funcione como Serviço de Atendimento ao Cliente (SAC), onde ele poderá criar ROs, verificar as solicitações criadas, entrar em contato via chat com algum administrador (programador da equipe). Assim, os administradores podem receber as solicitações, atualizar seus status e verificar as pendências de forma centralizada.
 
 - **Solução**
 
@@ -175,7 +175,7 @@ RecrutaTech é uma plataforma web inovadora que oferece recursos essenciais para
 
 - **Problema**
 
-O problema que eles estão enfrentando é a dificuldade para definir qual é o candidato certo, levando em contas suas habilidades, para o cargo que necessita dessas habilidades. Com isso a minha equipe criamos uma aplicação web capaz de identificar candidatos ideais para cargos específicos, utilizando Inteligência Artificial para avaliar o perfil com base nos critérios de Conhecimento, Habilidades e Atitudes (KSA) necessários para a função.
+O problema que eles estão enfrentando é a dificuldade para definir qual é o candidato certo, levando em contas suas habilidades, para o cargo que necessita dessas habilidades. Com isso a minha equipe criou uma aplicação web capaz de identificar candidatos ideais para cargos específicos, utilizando Inteligência Artificial para avaliar o perfil com base nos critérios de Conhecimento, Habilidades e Atitudes (KSA) necessários para a função.
 
 - **Solução**
 
