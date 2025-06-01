@@ -13,30 +13,29 @@ Profissionalmente, eu já trabalhei como Recenseador no IBGE [Período: 02/07/20
 - inglês avançado
 
 ## Contatos
-### LINKEDIN
-[Linkedin](https://www.linkedin.com/in/carlos-henrique-b-40a4b5108/)
 
-[Git](https://github.com/Carlos-Henrique39)
+* [GIT](https://github.com/Carlos-Henrique39)
 
-[E-mail](ique.benicio49@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/carlos-henrique-b-40a4b5108/)
+
+* [E-mail](ique.benicio49@gmail.com)
 
 ## Meus Principais Conhecimentos
-- Linguagem CSS
-- Linguagem HTML
-- Linguagem Typescript
-- Linguagem Java
-- Linguagem Javascript
-- Linguagem Angular
+* CSS
+* HTML
+* Typescript
+* Java
+* Javascript
+* Angular
+* Vue.js
 
 ## Meus Projetos
 ### Historico de API
-### API(2022-1) - TecSUS
+### Terceiro Semestre (2022-1)
 
 - **Empresa - TecSUS**
 
 A Tecsus é uma startup que desenvolve dispositivos, aplicativos e sistemas para a transmissão e recepção de dados, controle de equipamentos remotos e gestão de faturas. Aplicados nos setores de abastecimento de água, distribuição de eletricidade e gás natural.
-
-[GitHub](https://github.com/luks-ecdc/PowerTech-API-TecSUS)
 
 - **Problema**
 
@@ -48,30 +47,48 @@ A TecSUS realiza a coleta e processamento de contas de energia, água e gás par
 
 Nós fizemos um sistema de cadastro da energia, agua e gás, onde o cliente envia as faturas para a empresa e o digitador preenche os campos de fatura. Após inserir os dados, um Dashboard montrará os dados para análises e mostraria a media de consumo e é avisado por e-mail quando o consumo ta alto. os administradores interager com os contratos de concessionarias, clientes e contratos. Os Gestores podem mexer nas faturas cadastradas no sistema. O Gestor tem acesso as faturas de PDF/IMG para o banco de dados. O Digitador tem uma área de trabalho no qual ele mexer na lista de contratos das faturas. tem log de acesso com data e hora.
 
-- **Contribuição**
-  - Fiz o Header(Front/CSS e HTML)
-  - Fiz e Ajustei a tela de Cadastro de Gaz, Agua e Luz(Front/CSS e HTML)
-  - Ajustei a tela de Busca(Front/CSS e HTML)
-  - Ajudei na separação de Administrador e do Digitador(Front/CSS e HTML)
-  - Ajudei no codigo de buscar o Digitador pelo Administrador(Front/CSS e HTML)
-  - Ajudei no codigo de buscar o Componentes e Gestor pelo Administrador(Front/CSS e HTML)
+- **Link do Repositório Git**
+[GitHub](https://github.com/luks-ecdc/PowerTech-API-TecSUS)
+
+- **Tecnologias utilizadas**
+As seguintes tecnologias foram utilizadas nesse projeto:
+  - **Git/Github**
+  - **VS Code**
+  - **CSS/HTML**
+  - **TypeScript**
+  - **Angular Js**
+  - **Eclipse**
+  - **Java**
+  - **Swagger**
+  - **Spring boot**
+  - **PostgreSQL**
+  - **Trello**
+
+- **Contribuições Pessoais**
+O papel que eu atuei nesse projeto foi como um desenvolvedor. 
+  - Realizei o Header utilizando o CSS e o HTML.
+  - Realizei o Ajustei a tela de Cadastro de Gaz, Agua e Luz utilizando o CSS e o HTML.
+  - Ajustei a tela de Busca usando o CSS e o HTML.
+  - Ajudei na separação de Administrador e do Digitador utilizando o CSS e o HTML.
+  - Ajudei no codigo de buscar o Digitador pelo Administrador utilizando o CSS e o HTML.
+  - Ajudei no codigo de buscar o Componentes e Gestor pelo Administrador utilizando o CSS e o HTML.
 
 - **Hard Skills**
-  - **Git/Github:** Faço com ajuda.
-  - **VS Code:** Faço com ajuda.
-  - **CSS/HTML:** Faço com ajuda.
-  - **TypeScript:** Faço com ajuda.
-  - **Angular Js:** Faço com ajuda
-  - **Eclipse:** Faço com ajuda
-  - **Java:** Faço com ajuda
-  - **Swagger:** Faço com ajuda
-  - **Spring boot:** Faço com ajuda
-  - **PostgreSQL:** Faço com ajuda
-  - **Trello:** Faço com um pouco de dificuldade.
+  - **Git/Github:** uso com ajuda.
+  - **VS Code:** uso com ajuda.
+  - **CSS/HTML:** uso com ajuda.
+  - **TypeScript:** uso com ajuda.
+  - **Angular Js:** uso com ajuda.
+  - **Eclipse:** uso com ajuda.
+  - **Java:** uso com ajuda.
+  - **Swagger:** uso com ajuda.
+  - **Spring boot:** uso com ajuda.
+  - **PostgreSQL:** uso com ajuda.
+  - **Trello:** uso com autonomia.
 
 - **Soft Skills**
   - **Comunicação:**
-Usamos Whatsapp, Discord e Trello para comunicar sobre o progresso, em caso de ajuda e informar quais tarefas iriamos fazer     respectivamente no API.
+Usamos Whatsapp, Discord e Trello para comunicar sobre o progresso, em caso de ajuda e informar quais tarefas iriamos fazer respectivamente no API.
   - **Organização:**
 Nós nos organizamos usando o Whatsapp, Discord e Trello pra fazer as nossas tarefas no API.
   - **Colaboração:**
@@ -80,12 +97,10 @@ Quando alguem tinha dificuldade, quando possivel, a gente ajudava o membro que e
 Quando não sabiamos fazer algo, a gente se pronunciava da nossa dificudade e os membros que tinham conhecimento ajudavam o que tinha dificuldade.
 
 
-### API(2022-2) - 2RP NET
+### Quarto Semestre (2022-2)
 - **Empresa - 2RP NET**
 
 A 2RP NET é uma empresa de dados e soluções tecnológicas, seus colaboradores precisam apontar suas horas extras e sobreavisos seguindo certas regras e seus gestores precisam aprová-las.
-
-[GitHub](https://github.com/PowerTech-Fatec/API-2RP-NET)
 
 - **Problema**
 
@@ -95,7 +110,24 @@ O problema é que os seus colaboradores precisam apontar suas horas extras e sob
 
 Criamos um sistema de integração do Login e da consumição de dados, nela tem a matricula, o nome completo e o turno. Os usuários devem ter perfis diferentes: o Administrador, Gestor ou de um Colaborador. Tem apontamento de horas de sobreaviso e quando elas forem lançadas, informar o Cliente, Centro de Resultados (CR), projeto, solicitante e a sua justificativa, criamos um recurso para aprovação de horas extras executadas seguindo as regras dela e sobreavisos na extração. Tem uma tela de cadastros de clientes e CRs e uma tela de parametrização de sistema. E criamos um Dashboard que acompanha em tempo real as horas extras executados.
 
-- **Contribuição**
+- **Link do Repositório Git**
+[GitHub](https://github.com/PowerTech-Fatec/API-2RP-NET)
+
+- **Tecnologias utilizadas**
+As seguintes tecnologias foram utilizadas nesse projeto:
+  - **Git/Github**
+  - **VS Code**
+  - **React**
+  - **BootStrap**
+  - **TypeScript**
+  - **Node Js**
+  - **PostgreSQL**
+  - **ElephantSQL**
+  - **Vertabelo**
+  - **Taiga**
+
+- **Contribuições Pessoais**
+O papel que eu atuei nesse projeto foi como um desenvolvedor. 
   - Adicionei e ajustei varias vezes o sidebar do site.(Node.js)
   - Criei o Dashboard e a tela de Login e ajustei varias vezes elas(Node.js)
   - Criei a tela de cadastros, sua função de criar e excluir o usuario e o aviso por email de cadastro no site e sua confirmação do seu cadastro, e por fim criei as entidades Gastos e Usuarios no sistema.(Node.js/ElephantSQL/Bootstarp/TypeScript)
@@ -104,16 +136,16 @@ Criamos um sistema de integração do Login e da consumição de dados, nela tem
   - criei a ListagemSquad(Node.js)
 
 - **Hard Skills**
-  - Git/Github: Faço com um pouco de dificuldade
-  - VS Code: Faço com um pouco de dificuldade.
-  - React: Faço com um pouco de dificuldade.
-  - BootStrap: Faço com ajuda.
-  - TypeScript: Faço com um pouco de dificuldade.
-  - Node Js: Faço com um pouco de dificuldade.
-  - PostgreSQL: Faço com ajuda.
-  - ElephantSQL: Faço com ajuda.
-  - Vertabelo: Faço com ajuda.
-  - Taiga: Faço com um pouco de dificuldade.
+  - **Git/Github:** Faço com ajuda.
+  - **VS Code:** Faço com ajuda.
+  - **React:** Faço com ajuda.
+  - **BootStrap:** Faço com ajuda.
+  - **TypeScript:** Faço com ajuda.
+  - **Node Js:** Faço com ajuda.
+  - **PostgreSQL:** Faço com ajuda.
+  - **ElephantSQL:** Faço com ajuda.
+  - **Vertabelo:** Faço com ajuda.
+  - **Taiga:** Faço com ajuda.
 
 
 - **Soft Skills**
@@ -122,13 +154,11 @@ Em diante o problema, nos analizamos os dados e fizemos varias pesquisar e vimos
   - **Honestidade:**
 Quando faziamos erros não intencionais e foi notado na fase de teste, o responsavel falava que foi ele e fazia questão de arrumar e fazer o sistema funcionar pelo que fez.
 
-### API(2023-1) - IACIT
+### Quinto Semestre (2023-1)
 
 - **Empresa - IACIT**
 
 A IACIT é uma empresa brasileira que possui capacitação tecnológica para o desenvolvimento de diversos produtos. O seu portfólio abrange as áreas de Meteorologia Radar, CNS/ATM, Defesa e Segurança Pública, Telemetria e Tecnologias da Informação, Comunicação, Automação e Controle. Atualmente, os clientes enviam ROs (Registros de Ocorrência) por vários meios de comunicação: aplicativos, e-mail, telefone, etc.
-
-[GitHub](https://github.com/PowerTech5API/iacity)
 
 - **Problema**
 
@@ -138,22 +168,36 @@ O problema é que a empresa estava tendo problema para lidar com os registros de
 
 Nós criamos uma área de Cliente e uma de Administrador, no qual tem acesso na Autenticação e na autorização, respectivamente. Tem tela de cadastro e de acompanhamento dos Registros de Ocorrência(ROs). Nele tem um chat para facilitar a comunicação com os administradores do Sistema. Criamos um sistema de atualização de status das ROs em tempo real, facilitando ao indentificar se as ROs estão pendentes ou se foram Atendidas. E se receberem mensagem no chat ou os status das ROs mudar, o cliente e os administradores resceberão um e-mail avisando-o. Criamos um tela de relatórios em formato de gráficos resumindo as ROs. 
 
-- **Contribuição**
+- **Link do Repositório Git**
+[GitHub](https://github.com/PowerTech5API/iacity)
 
+- **Tecnologias utilizadas**
+As seguintes tecnologias foram utilizadas nesse projeto:
+  - **MongoDB**
+  - **Node Js**
+  - **HTML**
+  - **CSS**
+  - **TypeScript**
+  - **React Native**
+  - **Git/Github**
+  - **Figma**
+  - **VS Code**
+
+- **Contribuições Pessoais**
   - Eu era o Scrum Master, fiquei responsavel para a organização e comprometimento do projeto, como também analizando o empenho dos desenvolvedores e se precisavam de ajuda em algo entre eles.
   - Criei o Readme.md e ajustei ela varias vezes(HTML/CSS)
   - Existia um membro que foi adicionado no projeto por um pedido do professor, mas ele não se comunicava com o grupo, no final, por meio de uma reunião do grupo e também ao conversar com o membro, tivemos que tirar ele do grupo.
 
 - **Hard Skills**
-  - MongoDB: Faço com um pouco de dificuldade.
-  - Node Js: Faço com um pouco de dificuldade.
-  - HTML: Faço com facilidade.
-  - CSS: Faço com facilidade.
-  - TypeScript: Faço com facilidade.
-  - React Native: Faço com um pouco de dificuldade.
-  - Git/Github: Faço com facilidade.
-  - Figma: Faço com facilidade.
-  - VS Code: Faço com facilidade.
+  - **MongoDB:** Faço com um pouco de dificuldade.
+  - **Node Js:** Faço com um pouco de dificuldade.
+  - **HTML:** Faço com facilidade.
+  - **CSS:** Faço com facilidade.
+  - **TypeScript:** Faço com facilidade.
+  - **React Native:** Faço com um pouco de dificuldade.
+  - **Git/Github:** Faço com facilidade.
+  - **Figma:** Faço com facilidade.
+  - **VS Code:** Faço com facilidade.
 
 - **Soft Skills**
   - **Liderança/Etica no trabalho:**
@@ -165,13 +209,11 @@ A interação de cada membro do grupo foi feita com uma cooperação, todos que 
   - **Atitude positiva:**
 Em relação ao projeto, varias tarefas foram deixadas para ser feitas depois da primeira e segunda entrega, mas mesmo em relação a isso, eu falei com os membro do grupo e motivei conversando com ele e escutando suas ideias, motivando eles mostrando que eram boas, apontando certo detalhes, e encorajando a fazerem as tarefas pendentes, e se tivesse dificuldade, eu dava a minha visão, e quando era algo mais tecnico que ele tinha problema, eu encaminhava alguem para ajuda-lo, para que não fique perdido.
 
-### API(2023-2) - RecrutaTech
+### Sexto Semestre (2023-2)
 
 - **Empresa - RecrutaTech**
 
 RecrutaTech é uma plataforma web inovadora que oferece recursos essenciais para agilizar o recrutamento de candidatos.
-
-[GitHub](https://github.com/CodeSquirrel-API/RecrutaTech)
 
 - **Problema**
 
@@ -181,7 +223,25 @@ O problema que eles estão enfrentando é a dificuldade para definir qual é o c
 
 Nós criamos uma plataforma que realize raspagem da Web em várias fontes de empregos populares, economizando tempo na coleta de informações dos candidatos, nessa plataforma criamos um sistema de avaliação baseada no conhecimento, habilidade e atitudes (KSA) dos candidatos mais classificados, e vai avisa-los quando o resultado do processo de seleção estiver disponível por meio de e-mail. Colocamos uma descrição de cargos simplificados, com o objetivo de inserir e atualizar as descrições de cargos que os candidatos desejam. E inserimos um sistema de classificação de candidatos, fazendo o candidato encontrar vaga mais rápido.
 
-- **Contribuição**
+- **Link do Repositório Git**
+[GitHub](https://github.com/CodeSquirrel-API/RecrutaTech)
+
+- **Tecnologias utilizadas**
+As seguintes tecnologias foram utilizadas nesse projeto:
+  - **PostgreSQL**
+  - **Java**
+  - **SpringBoot**
+  - **HTML**
+  - **CSS**
+  - **TypeScript**
+  - **Vue.js**
+  - **Figma**
+  - **Python**
+  - **Beautiful Soup**
+  - **Selenium**
+
+- **Contribuições Pessoais**
+O papel que eu atuei nesse projeto foi a de um desenvolvedor. 
   - Criei e Ajustei a tela de Login várias vezes (Vue.js/HTML/CSS)
   - Ajustei o sidebar várias vezes (Vue.js/HTML/CSS)
   - Ajustei as telas de busca, a home e dos resultados (Vue.js/HTML/CSS)
@@ -192,17 +252,17 @@ Nós criamos uma plataforma que realize raspagem da Web em várias fontes de emp
   - Ajustei o arquivo de Candidatos para quando for pedido pegar as informações certas quando o sistema pedir. (Vue.js/HTML/CSS)
 
 - **Hard Skills**
-  - PostgreSQL: Faço com ajuda.
-  - Java: Faço com um pouco de dificuldade.
-  - SpringBoot: Faço com ajuda.
-  - HTML: Faço com facilidade.
-  - CSS: Faço com facilidade.
-  - TypeScript: Faço com facilidade.
-  - Vue.js: Faço com facilidade.
-  - Figma: Faço com facilidade.
-  - Python: Faço com um pouco de dificuldade.
-  - Beautiful Soup: Faço com dificuldade.
-  - Selenium: Faço com dificuldade.
+  - **PostgreSQL:** Faço com ajuda.
+  - **Java:** Faço com um pouco de dificuldade.
+  - **SpringBoot:** Faço com ajuda.
+  - **HTML:** Faço com facilidade.
+  - **CSS:** Faço com facilidade.
+  - **TypeScript:** Faço com facilidade.
+  - **Vue.js:** Faço com facilidade.
+  - **Figma:** Faço com facilidade.
+  - **Python:** Faço com um pouco de dificuldade.
+  - **Beautiful Soup:** Faço com dificuldade.
+  - **Selenium:** Faço com dificuldade.
 
 - **Soft Skills**
   - **Pensamento Critico:**
@@ -214,3 +274,43 @@ O caso do membro ter dado prejuizo no grupo em uma das entregas, não fez o grup
 Cada um dos membros tinha empatia pelos outros, quando a algo que deu problema, sempre pergunta sobre o que tinham acontecido, e quando era momentos dificies que um dos membros estava passando, todos entendiam e ajudavam quando podiam para alivar a dificuldade do membro do grupo.
   - **Assertividade:**
 Em relação da Assertividade, muitos dos membros do grupo estavam no seu ultimo semestre para poderem se formar, e com isso todos eles falaram suas intenções, de que esse projeto era o ultimo e que todos tinham que cooperar para não prejuditar eles no final da API, todos entenderam e fizeram o seu melhor para não prejudicar os que precisam terminar e passar, deixando claro o que queriam fazendo os membros entenderem a situações deles e com isso fazendo que todos não prejudiquem e se esforçarem ao maximo, por terem o mesmo objetivo.
+
+### Nono Semestre (2023-2)
+
+- **Empresa - FullStack**
+
+- **Problema**
+O problema central abordado foi a falta de ferramentas eficientes para avaliação e comparação de respostas geradas por diferentes LLMs (como OpenAI e Gemini), especialmente em critérios como coerência, veracidade e segurança.
+
+- **Solução**
+A solução proposta é uma plataforma web onde usuários podem enviar perguntas, comparar respostas de múltiplos modelos, avaliá-las com base em métricas específicas e contribuir para o treinamento contínuo dos sistemas via Aprendizado por Reforço com Feedback Humano (RLHF).
+
+- **Link do Repositório Git**
+[GitHub](https://github.com/FATEC-FULLSTACK/API6)
+
+- **Tecnologias utilizadas**
+As seguintes tecnologias foram utilizadas nesse projeto:
+  - **Figma:** Utilizado para desenvolver o protótipo apresentado ao cliente.
+  - **VScode:** Usado para realizar o desenvolvimento do código de todo o projeto.
+  - **Vue.js:** É um framework Front-End para a criação das interfaces dinâmicas no projeto 
+  - **Python:** Usado para a linguagem do Back-End
+  - **FastAPI:** É um framework usado para a criação de APIs rápidas e escaláveis.
+  - **LangChain:** Usado para realizar a integração com modelos de linguagem e RAG (Retrieval-Augmented Generation).
+  - **MongoDB:** Foi o banco de dados utilizado para a persistencia de dados quando há conexão com a internet, devido à sua flexibilidade e escalabilidade.
+  - **Github:** O uso do GitHub foi para a hospedagem do código-fonte, ajudando no trabalho em equipe, dando a oportunidade de controlar qual é versão mais eficiente e permitindo o gerenciamento dos colaboradores.
+  - **Jira:** Gerenciamento ágil de tarefas e sprints.
+
+- **Contribuição**
+O papel que eu atuei nesse projeto foi a de um desenvolvedor.
+  - Criei e Ajustei a tela de Login várias vezes (Vue.js/HTML/CSS)
+  - Ajustei o sidebar várias vezes (Vue.js/HTML/CSS)
+  - Ajustei as telas de busca, a home e dos resultados (Vue.js/HTML/CSS)
+  - Criei as telas de cadastro por meio CPF e CNPJ, no qual estão conectados com a tela de Login (Vue.js/HTML/CSS)
+  - Ajustei alguns erros no services(api.tsx) e o views (CadastroCNPJ/CPF)
+  - Criei e ajustei a tela de recuperar senha e de nova senha várias vezes (Vue.js/HTML/CSS)
+  - Personalizei os inputs de cada tela que usa ela. (Vue.js/HTML/CSS)
+  - Ajustei o arquivo de Candidatos para quando for pedido pegar as informações certas quando o sistema pedir. (Vue.js/HTML/CSS)
+
+- **Hard Skills**
+
+- **Soft Skills**
