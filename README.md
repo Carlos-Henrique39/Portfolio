@@ -271,15 +271,10 @@ A solução proposta é uma plataforma web onde usuários podem enviar perguntas
   - **Jira:** Gerenciamento ágil de tarefas e sprints.
 
 - **Contribuições Pessoais**
-  - O papel que eu atuei nesse projeto foi a de um desenvolvedor.
-  - Criei e Ajustei a tela de Login várias vezes (Vue.js/HTML/CSS)
-  - Ajustei o sidebar várias vezes (Vue.js/HTML/CSS)
-  - Ajustei as telas de busca, a home e dos resultados (Vue.js/HTML/CSS)
-  - Criei as telas de cadastro por meio CPF e CNPJ, no qual estão conectados com a tela de Login (Vue.js/HTML/CSS)
-  - Ajustei alguns erros no services(api.tsx) e o views (CadastroCNPJ/CPF)
-  - Criei e ajustei a tela de recuperar senha e de nova senha várias vezes (Vue.js/HTML/CSS)
-  - Personalizei os inputs de cada tela que usa ela. (Vue.js/HTML/CSS)
-  - Ajustei o arquivo de Candidatos para quando for pedido pegar as informações certas quando o sistema pedir. (Vue.js/HTML/CSS)
+  - O papel que eu atuei nesse projeto foi a de um desenvolvedor
+  - Contribui nas janelas de respostas que após o cliente fazer a sua pergunta, geraria duas resposta com fontes diferentes, e que o cliente teria que escolher qual dos dois ele gostou mais para ser a sua resposta.
+  - Criei a tela de critérios de que quando o cliente fizer a sua pergunta e escolher uma das duas respostas, um questionário aparecerá para ter informações de se foi útil, se teve algum erro, para que o IA tenha as informações necessárias para ajudar na próxima pergunta que o cliente possa fazer para ela.
+  - Ajustei alguns erros que as telas que eu criei estavam tendo, principalmente na questão da leitura do cliente das respostas mostradas com a intenção de ele ler e escolher qual ele acha melhor.
 
 - **Hard Skills**
   - Eu usei as seguintes Hard Skills:
