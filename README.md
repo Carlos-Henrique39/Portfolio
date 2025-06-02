@@ -282,12 +282,12 @@ A solução proposta é uma plataforma web onde usuários podem enviar perguntas
   - Ajustei o arquivo de Candidatos para quando for pedido pegar as informações certas quando o sistema pedir. (Vue.js/HTML/CSS)
 
 - **Hard Skills**
-- Eu usei as seguintes Hard Skills:
-- **Figma:** Uso com autonomia.
-- **VScode:** Uso com autonomia.
-- **Vue.js:** Uso com autonomia.
-- **GitHub:** Uso com autonomia.
-- **Jira:** Uso com autonomia.
+  - Eu usei as seguintes Hard Skills:
+  - **Figma:** Uso com autonomia.
+  - **VScode:** Uso com ajuda.
+  - **Vue.js:** Uso com ajuda.
+  - **GitHub:** Uso com ajuda.
+  - **Jira:** Uso com autonomia.
 
 - **Soft Skills**
   - **Atitude Positiva:**
