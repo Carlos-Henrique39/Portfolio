@@ -42,7 +42,7 @@ Nós fizemos um sistema de cadastro da energia, agua e gás, onde o cliente envi
 [GitHub](https://github.com/luks-ecdc/PowerTech-API-TecSUS)
 
 - **Tecnologias utilizadas**
-As seguintes tecnologias foram utilizadas nesse projeto:
+  - As seguintes tecnologias foram utilizadas nesse projeto:
   - **Git/Github:** Utilizado para aplicar o codigo no projeto.
   - **VS Code:** Usado para fazer codigo do Front-End.
   - **CSS/HTML:** Usado no VScode para o projeto do semestre.
@@ -56,7 +56,7 @@ As seguintes tecnologias foram utilizadas nesse projeto:
   - **Trello:** Utilizado para a organização das tarefas do projeto.
 
 - **Contribuições Pessoais**
-O papel que eu atuei nesse projeto foi como um desenvolvedor. 
+  - O papel que eu atuei nesse projeto foi como um desenvolvedor. 
   - Realizei o Header utilizando o CSS e o HTML.
   - Realizei o Ajustei a tela de Cadastro de Gaz, Agua e Luz utilizando o CSS e o HTML.
   - Ajustei a tela de Busca usando o CSS e o HTML.
@@ -65,6 +65,7 @@ O papel que eu atuei nesse projeto foi como um desenvolvedor.
   - Ajudei no codigo de buscar o Componentes e Gestor pelo Administrador utilizando o CSS e o HTML.
 
 - **Hard Skills**
+  - Eu usei as seguintes Hard Skills:
   - **Git/Github:** uso com ajuda.
   - **VS Code:** uso com ajuda.
   - **CSS/HTML:** uso com ajuda.
@@ -98,7 +99,7 @@ Criamos um sistema de integração do Login e da consumição de dados, nela tem
 [GitHub](https://github.com/PowerTech-Fatec/API-2RP-NET)
 
 - **Tecnologias utilizadas**
-As seguintes tecnologias foram utilizadas nesse projeto:
+  - As seguintes tecnologias foram utilizadas nesse projeto:
   - **Git/Github:** Utilizado para aplicar o codigo no projeto.
   - **VS Code:** Usado para fazer codigo do Front-End.
   - **React:** Foi utilizado para forma uma biblioteca JavaScript com a intenção de construir uma interfaces do usuário(UI), e também utilizado na parte visual do Front-End.
@@ -111,7 +112,7 @@ As seguintes tecnologias foram utilizadas nesse projeto:
   - **Taiga:** Usado para gerenciar as tarefas do projeto para que tenha mais organização e analisar o andamento do projeto
 
 - **Contribuições Pessoais**
-O papel que eu atuei nesse projeto foi como um desenvolvedor. 
+  - O papel que eu atuei nesse projeto foi como um desenvolvedor. 
   - Adicionei e ajustei varias vezes o sidebar do site.(Node.js)
   - Criei o Dashboard e a tela de Login e ajustei varias vezes elas(Node.js)
   - Criei a tela de cadastros, sua função de criar e excluir o usuario e o aviso por email de cadastro no site e sua confirmação do seu cadastro, e por fim criei as entidades Gastos e Usuarios no sistema.(Node.js/ElephantSQL/Bootstarp/TypeScript)
@@ -120,6 +121,7 @@ O papel que eu atuei nesse projeto foi como um desenvolvedor.
   - criei a ListagemSquad(Node.js)
 
 - **Hard Skills**
+  - Eu usei as seguintes Hard Skills:
   - **Git/Github:** Faço com autonomia.
   - **VS Code:** Faço com autonomia.
   - **React:** Faço com ajuda.
@@ -149,7 +151,7 @@ Nós criamos uma área de Cliente e uma de Administrador, no qual tem acesso na 
 [GitHub](https://github.com/PowerTech5API/iacity)
 
 - **Tecnologias utilizadas**
-As seguintes tecnologias foram utilizadas nesse projeto:
+  - As seguintes tecnologias foram utilizadas nesse projeto:
   - **MongoDB:** Foi o banco de dados utilizado para a persistencia de dados quando 		há conexão com a internet, devido à sua flexibilidade e escalabilidade.
   - **Node Js:** Usado para receber requisições do cliente, processar elas e enviar respostas de volta para o cliente.
   - **HTML:** Usado no VScode para criar as paginas do projeto do semestre.
@@ -166,6 +168,7 @@ As seguintes tecnologias foram utilizadas nesse projeto:
   - Existia um membro que foi adicionado no projeto por um pedido do professor, mas ele não se comunicava com o grupo, no final, por meio de uma reunião do grupo e também ao conversar com o membro, tivemos que tirar ele do grupo.
 
 - **Hard Skills**
+  - Eu usei as seguintes Hard Skills:
   - **MongoDB:** Faço com autonomia.
   - **Node Js:** Faço com autonomia.
   - **HTML:** Uso com autonomia.
@@ -197,7 +200,7 @@ Nós criamos uma plataforma que realize raspagem da Web em várias fontes de emp
 [GitHub](https://github.com/CodeSquirrel-API/RecrutaTech)
 
 - **Tecnologias utilizadas**
-As seguintes tecnologias foram utilizadas nesse projeto:
+  - As seguintes tecnologias foram utilizadas nesse projeto:
   - **PostgreSQL:** Usado no Back-End em relação do banco de dados.
   - **Java:** Linguagem de programação utilizada no Back-End, mas foi utilizado no 	Front-End. 
   - **SpringBoot:** Usado para agilizar nos codigos do Back-End com sugestões, 	ajudando o desenvolvedor caso tenha algum problema. 
@@ -211,7 +214,7 @@ As seguintes tecnologias foram utilizadas nesse projeto:
   - **Selenium:** Foi usado como ferramenta para automatização de navegadores.
 
 - **Contribuições Pessoais**
-O papel que eu atuei nesse projeto foi a de um desenvolvedor. 
+  - O papel que eu atuei nesse projeto foi a de um desenvolvedor. 
   - Criei e Ajustei a tela de Login várias vezes (Vue.js/HTML/CSS)
   - Ajustei o sidebar várias vezes (Vue.js/HTML/CSS)
   - Ajustei as telas de busca, a home e dos resultados (Vue.js/HTML/CSS)
@@ -222,6 +225,7 @@ O papel que eu atuei nesse projeto foi a de um desenvolvedor.
   - Ajustei o arquivo de Candidatos para quando for pedido pegar as informações certas quando o sistema pedir. (Vue.js/HTML/CSS)
 
 - **Hard Skills**
+  - Eu usei as seguintes Hard Skills:
   - **PostgreSQL:** Faço com ajuda.
   - **Java:** Faço com autonomia.
   - **SpringBoot:** Faço com ajuda.
@@ -255,7 +259,7 @@ A solução proposta é uma plataforma web onde usuários podem enviar perguntas
 [GitHub](https://github.com/FATEC-FULLSTACK/API6)
 
 - **Tecnologias utilizadas**
-As seguintes tecnologias foram utilizadas nesse projeto:
+  - As seguintes tecnologias foram utilizadas nesse projeto:
   - **Figma:** Utilizado para desenvolver o protótipo apresentado ao cliente.
   - **VScode:** Usado para realizar o desenvolvimento do código de todo o projeto.
   - **Vue.js:** É um framework Front-End para a criação das interfaces dinâmicas no projeto 
@@ -267,7 +271,7 @@ As seguintes tecnologias foram utilizadas nesse projeto:
   - **Jira:** Gerenciamento ágil de tarefas e sprints.
 
 - **Contribuições Pessoais**
-O papel que eu atuei nesse projeto foi a de um desenvolvedor.
+  - O papel que eu atuei nesse projeto foi a de um desenvolvedor.
   - Criei e Ajustei a tela de Login várias vezes (Vue.js/HTML/CSS)
   - Ajustei o sidebar várias vezes (Vue.js/HTML/CSS)
   - Ajustei as telas de busca, a home e dos resultados (Vue.js/HTML/CSS)
@@ -278,7 +282,7 @@ O papel que eu atuei nesse projeto foi a de um desenvolvedor.
   - Ajustei o arquivo de Candidatos para quando for pedido pegar as informações certas quando o sistema pedir. (Vue.js/HTML/CSS)
 
 - **Hard Skills**
-Eu usei as seguintes Hard Skills:
+- Eu usei as seguintes Hard Skills:
 - **Figma:** Uso com autonomia.
 - **VScode:** Uso com autonomia.
 - **Vue.js:** Uso com autonomia.
