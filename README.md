@@ -79,15 +79,12 @@ Nós fizemos um sistema de cadastro da energia, agua e gás, onde o cliente envi
   - **Trello:** uso com autonomia.
 
 - **Soft Skills**
-  - **Comunicação:**
-Usamos Whatsapp, Discord e Trello para comunicar sobre o progresso, em caso de ajuda e informar quais tarefas iriamos fazer respectivamente no API.
-  - **Organização:**
-Nós nos organizamos usando o Whatsapp, Discord e Trello pra fazer as nossas tarefas no API.
-  - **Colaboração:**
-Quando alguem tinha dificuldade, quando possivel, a gente ajudava o membro que estava com problemas e quando é muitas pessoas, faziamos uma reunião para facilitar aqueles que tinham problema.
-  - **Honestidade:**
-Quando não sabiamos fazer algo, a gente se pronunciava da nossa dificudade e os membros que tinham conhecimento ajudavam o que tinha dificuldade.
 
+Durante o projeto, utilizei a comunicação para informar a equipe sobre meu progresso, utilizando ferramentas como WhatsApp, Discord e Trello. Também recorri a esses meios para solicitar apoio nas tarefas relacionadas à API, permitindo que o grupo acompanhasse meu avanço nas atividades.
+
+Apliquei a organização ao definir com clareza quais tarefas seriam de minha responsabilidade, com a intenção de contribuir para o andamento do projeto sem prejudicar os demais integrantes.
+
+Em momentos de dificuldade, procurei ser honesto ao relatar os obstáculos enfrentados — principalmente por ser o primeiro semestre em que tive contato com APIs. Com o apoio da equipe, exerci a colaboração para manter o ritmo e concluir as tarefas atribuídas sem comprometer os prazos de entrega.
 
 ### Quarto Semestre (2022-2)
 
@@ -135,10 +132,10 @@ Criamos um sistema de integração do Login e da consumição de dados, nela tem
 
 
 - **Soft Skills**
-  - **Proatividade:**
-Em diante o problema, nos analizamos os dados e fizemos varias pesquisar e vimos quais são os metodos mais eficazes para resolver e que seja facil de ser usado sem dar problema e para realizar isso, nos compartilhamos as nossas ideias e aplicamos elas quando era aceitas, fazendo questão de melhorar as tarefas designinadas e ficar mais facil tanto para o cliente quanto pro membro na hora de usar e testar, respectivamente. 
-  - **Honestidade:**
-Quando faziamos erros não intencionais e foi notado na fase de teste, o responsavel falava que foi ele e fazia questão de arrumar e fazer o sistema funcionar pelo que fez.
+
+Nesse projeto, eu precisei aplicar a proatividade para lidar com imprevistos — principalmente ao realizar uma análise dos dados e diversas pesquisas para identificar o método mais eficaz para resolver os problemas de forma prática. Compartilhei minhas ideias com a equipe, e juntos decidimos quais seriam aceitas, buscando facilitar tanto a distribuição das tarefas quanto a usabilidade do sistema, seja por parte do cliente ou dos membros da equipe durante os testes.
+
+Também utilizei a honestidade ao assumir a responsabilidade por um erro ocorrido na fase de testes. Reconheci que fui o responsável, me comprometi a corrigir o problema e continuei testando o sistema até que voltasse a funcionar corretamente.
 
 ### Quinto Semestre (2023-1)
 
@@ -180,14 +177,14 @@ Nós criamos uma área de Cliente e uma de Administrador, no qual tem acesso na 
   - **VS Code:** Uso com autonomia.
 
 - **Soft Skills**
-  - **Liderança/Etica no trabalho:**
-em diante da situação do novo membro que foi adicionado, e pela falta de resposta e ação de fazer as suas atividades, ou até mesmo mostrar que ele estava presente nas reuniões, eu como scrum mestre, perguntei para todos os membros sobre essa situação, e depois falei com o novo membro sobre esse problema, e diante a isso ele informou que não havia tempo e viu que por ter feito algo no API, disse que não teria problema de tirar, ao ele falar isso, falei com todos membros denovo, fizemos a votação e tiramos ele da nossa equipe.
-  - **Empatia:**
-Situação de atraso em realizar uma tarefa, eu sempre abordava o responsavel da tarefa e perguntava com calma e compreensão do motivo e se precisava de ajuda, no API teve uns atrasos, mas lidei com empatia pois os membros estavam passando com algumas dificuldades, e diante a isso, encaminhei aos outros membros que não estavam ocupados para ajudar os que estavam com problemas. No fim, a tarefa que estava atrasada foi feita e conseguimos fazer a entrega no prazo certo.
-  - **Trabalho em Equipe:**
-A interação de cada membro do grupo foi feita com uma cooperação, todos que estavam fazendo as suas tarefas, estavam fazendo bem, e quando perguntava sobre o andamento de suas tarefas, todos falavam e mostravam o andamento, para aqueles que tinham mais facilidade com o front-end ou com o back-end, cada um ficava em seu grupo para focar naquela area que era pra resolver, e quando havia problemas em uma das duas, um membro dos dois grupos ajudava o outro por mostra que estava dando esse erro e caso não tivesse entendendo do por que estava dando essa resposta, o que tava ajudando realiza a ação e explica o do porque foi feito desse jeito, ajudando caso queira mexer naquela area em momentos futuros e não ter mais dificuldades quando tiver problemas denovo. 
-  - **Atitude positiva:**
-Em relação ao projeto, varias tarefas foram deixadas para ser feitas depois da primeira e segunda entrega, mas mesmo em relação a isso, eu falei com os membro do grupo e motivei conversando com ele e escutando suas ideias, motivando eles mostrando que eram boas, apontando certo detalhes, e encorajando a fazerem as tarefas pendentes, e se tivesse dificuldade, eu dava a minha visão, e quando era algo mais tecnico que ele tinha problema, eu encaminhava alguem para ajuda-lo, para que não fique perdido.
+
+Durante o projeto, exerci a liderança e ética no trabalho em uma situação envolvendo um novo membro que havia sido adicionado à equipe. Pela falta de participação, ausência nas reuniões e por não realizar suas tarefas, como scrum master, conversei com os demais membros sobre o caso. Em seguida, falei diretamente com o novo integrante, que explicou não ter tempo para contribuir e afirmou que, por já ter feito uma parte da API, não se importaria em sair da equipe. Após isso, voltei a conversar com o grupo, realizamos uma votação e decidimos pela remoção do membro.
+
+Usei a empatia em situações de atraso na entrega de tarefas. Sempre procurei abordar o responsável com calma e compreensão, buscando entender o motivo e oferecer ajuda. Em alguns momentos, ocorreram atrasos nas tarefas relacionadas à API, mas lidei com empatia, pois sabia que alguns membros estavam enfrentando dificuldades. Então, organizei para que integrantes com mais disponibilidade auxiliassem os colegas com problemas. No fim, a tarefa atrasada foi concluída, e conseguimos fazer a entrega dentro do prazo.
+
+Apliquei o trabalho em equipe de forma constante. Cada membro estava focado nas suas responsabilidades e, sempre que perguntava sobre o andamento das tarefas, recebia retorno e acompanhamento. Aqueles com mais experiência em front-end ou back-end se organizaram em grupos conforme suas especialidades. Quando surgiam problemas em alguma dessas áreas, membros de um grupo ajudavam os outros, explicando os erros e as soluções aplicadas. Isso foi essencial para que todos compreendessem melhor o sistema e pudessem atuar em outras áreas no futuro, com mais autonomia.
+
+Mantive uma atitude positiva mesmo quando várias tarefas foram deixadas para depois das primeiras entregas. Apesar disso, continuei motivado e conversei com os membros da equipe, incentivando-os ao destacar suas ideias e apontar detalhes importantes. Sempre que alguém demonstrava dificuldades, eu compartilhava minha visão e, se o problema fosse técnico, encaminhava outro colega com mais conhecimento para ajudar, evitando que o membro ficasse perdido.
 
 ### Sexto Semestre (2023-2)
 
@@ -239,15 +236,16 @@ Nós criamos uma plataforma que realize raspagem da Web em várias fontes de emp
   - **Selenium:** Faço com ajuda.
 
 - **Soft Skills**
-  - **Pensamento Critico:**
-Em relação desse projeto, tivemos que usar inteligencia artificial, uma coisa que a gente não tinha mexido antes, e ao saber disso, o grupo fez questão de questionar e analizar os metodos desse nova tecnologia que tinhamos que aplicar.
-Tem o outro caso de que quando a gente fez as entregas, nos informaram que um dos membros não estavam fazendo o minimo de coisas para o API, o Scrum Mestre falou diretamento com o membro, perguntado e questionando num modo direto sobre do por que esta isso acontecendo e do peso que esta causando a todos do grupo ao fazer isso, dando ponto sobre o que tem que fazer para não ter o risco de prejudicar e fazer a decisão de tirar o membro do grupo.
-  - **Flexibilidade e Resiliência:**
-O caso do membro ter dado prejuizo no grupo em uma das entregas, não fez o grupo querer tirar ele de lá, o scrum mestre conversou com o membro e falou sobre como melhorar, o membro se adaptou e com o conhecimento dos atos que fez e por ao fazer isso tinha prejudicado a equipe, mesmo com a esperiencia ruim, fez o certo, fez as coisas com mais frequencia, e seguiu com as orientações do Scrum mestre para poder melhorar o seu desempenho e nao dar mais prejuizo para os outros membros.
-  - **Empatia:**
-Cada um dos membros tinha empatia pelos outros, quando a algo que deu problema, sempre pergunta sobre o que tinham acontecido, e quando era momentos dificies que um dos membros estava passando, todos entendiam e ajudavam quando podiam para alivar a dificuldade do membro do grupo.
-  - **Assertividade:**
-Em relação da Assertividade, muitos dos membros do grupo estavam no seu ultimo semestre para poderem se formar, e com isso todos eles falaram suas intenções, de que esse projeto era o ultimo e que todos tinham que cooperar para não prejuditar eles no final da API, todos entenderam e fizeram o seu melhor para não prejudicar os que precisam terminar e passar, deixando claro o que queriam fazendo os membros entenderem a situações deles e com isso fazendo que todos não prejudiquem e se esforçarem ao maximo, por terem o mesmo objetivo.
+
+Durante o projeto, usei o pensamento crítico, especialmente por estar lidando com inteligência artificial, algo com que eu nunca tinha trabalhado antes. Por isso, fiz questão de perguntar, pesquisar e analisar os métodos dessa nova tecnologia que precisava aplicar.
+
+Houve também uma situação em que, após uma das entregas, fomos informados de que um dos membros não estava contribuindo com o mínimo esperado para o desenvolvimento da API. O scrum master falou diretamente comigo, questionando o motivo daquela situação e alertando sobre o impacto que isso estava causando à equipe. Ele apontou as responsabilidades que eu deveria assumir para evitar prejuízos ao grupo, mencionando inclusive a possibilidade de me retirar da equipe, caso não houvesse mudança.
+
+Utilizei flexibilidade e resiliência quando causei um prejuízo à equipe em uma das entregas. Apesar disso, os membros não pediram minha saída. O scrum master conversou comigo de forma construtiva e apontou maneiras de melhorar. Reconheci meus erros, me adaptei e passei a me dedicar com mais frequência, seguindo as orientações recebidas para aprimorar meu desempenho e evitar causar novos prejuízos.
+
+Usei a empatia em momentos em que surgiram problemas. Sempre procurava entender o que havia acontecido e, ao saber que um dos colegas estava enfrentando dificuldades pessoais, procurei ajudar quando possível, com o objetivo de aliviar um pouco sua carga.
+
+Também pratiquei a assertividade ao compreender que muitos dos membros do grupo estavam em seu último semestre e dependiam desse projeto para concluir a graduação. Ao entender essa responsabilidade, me comprometi a dar o meu melhor, para não prejudicar ninguém na fase final da API.
 
 ### Nono Semestre (2025-1)
 No 9ºsemestre do curso, a pedido da empresa Dom Rock, Desenvolvemos a plantaforma de treinamento de IA. O projeto com o objetivo de aprimorar modelos de linguagem (LLMs).
@@ -285,9 +283,9 @@ A solução proposta é uma plataforma web onde usuários podem enviar perguntas
   - **Jira:** Uso com autonomia.
 
 - **Soft Skills**
-  - **Atitude Positiva:**
-Cada um dos membros foram bem confiantes e confiaram um nos outros em fazer as suas tarefas a tempo. todos tiveram suas motivações alta, não deixamos ser abalados pelas erros que fizeramos e demos valor pelos que fizeram certo e o que os outros fizeram certo também.
-  - **Flexibilidade e Resiliência:**
-Com uma das apresentações do projeto, mesmo estando com as tarefas realizadas, e a organização feita, na hora de apresentar, deu um erro no sistema e não deu para mostrar todas as mudanças que realizamos, conseguimos explicar o que fizemos e mesmo que não tenhamos sido prejudicados, foi um acerto na nossa confiança moral, mas não deixamos isso no abalar, e fizemos questão de nos preparar melhor para a proxima apresentação e ter conferido todos as coisas que fizemos para não passarmos por isso de novo e conseguir apresentar sem emprevistos desagradaveis. 
-  - **Organização:**
-Nossa organização foi bem anunciado, todos sabiam o seu papel, caso alguem tivesse duvida perguntavam para os seus colegas que tinham tempo para ajudar, e na hora dam entrega, todas as mudanças que fizemos nos codigos foi seguindo a nova forma de entrega para mostrar o nosso respeito por ela e porque notamos a eficiencia dela ao fazermos a entrega pelo Github.
+
+Usei a atitude positiva em um momento difícil durante uma das apresentações, quando ocorreu um problema técnico que impediu a demonstração do meu progresso. Em vez de me abalar, confiei nos meus colegas, foquei no que havia feito corretamente e usei a experiência como aprendizado, para não deixar que esse erro me prejudicasse na próxima entrega.
+
+Apliquei a flexibilidade e resiliência quando, apesar da organização prévia, houve uma falha no sistema durante a apresentação, impedindo que eu mostrasse todas as mudanças feitas. Embora isso não tenha afetado minha avaliação formal, abalou um pouco minha confiança. Ainda assim, não deixei que isso me desmotivasse. Me preparei melhor para a apresentação seguinte e revisei cuidadosamente todo o conteúdo para evitar novos imprevistos.
+
+Utilizei a organização para entender claramente meu papel no projeto. Quando surgiam dúvidas, recorria aos colegas disponíveis para ajudar. Na hora da entrega, todas as modificações que fiz no código seguiram o novo formato proposto, como forma de demonstrar respeito pelo processo e porque percebi sua eficiência, especialmente ao realizar a entrega pelo GitHub.
