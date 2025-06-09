@@ -247,8 +247,8 @@ Usei a empatia em momentos em que surgiram problemas. Sempre procurava entender 
 
 Também pratiquei a assertividade ao compreender que muitos dos membros do grupo estavam em seu último semestre e dependiam desse projeto para concluir a graduação. Ao entender essa responsabilidade, me comprometi a dar o meu melhor, para não prejudicar ninguém na fase final da API.
 
-### Nono Semestre (2025-1)
-No 9ºsemestre do curso, a pedido da empresa Dom Rock, Desenvolvemos a plantaforma de treinamento de IA. O projeto com o objetivo de aprimorar modelos de linguagem (LLMs).
+### Sexto Semestre (2025-1)
+No 6º semestre do curso, a pedido da empresa Dom Rock, Desenvolvemos a plantaforma de treinamento de IA. O projeto com o objetivo de aprimorar modelos de linguagem (LLMs).
 
 O problema central abordado foi a falta de ferramentas eficientes para avaliação e comparação de respostas geradas por diferentes LLMs (como OpenAI e Gemini), especialmente em critérios como coerência, veracidade e segurança.
 
